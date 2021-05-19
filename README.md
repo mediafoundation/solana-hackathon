@@ -48,6 +48,7 @@ Teams will be able to join a new channel (with their project name on it) on our 
 
 Useful Links|
 -----|
+[Solana Season](https://solana.com/solanaszn)
 [Website](https://media.network)
 [Developer Documentation](https://docs.media.network)
 [Community Forum](https://gov.media.network)
