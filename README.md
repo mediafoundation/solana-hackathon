@@ -24,6 +24,8 @@ The leading project will win $15,000. In addition, up to 3 other teams could win
 
 Winners will be chosen based on evaluation by a panel of judges with expertise in crypto-based user experiences.
 
+[Solana Season - Registration](https://solana.com/solanaszn)
+
 ## Guidelines
 
 We will award projects that integrate Media Network. All projects will have to provide an MVP (minimum viable product). We will gladly add the resources for teams that don’t hold enough MEDIA. Ask for that in our [Developer Chat](https://discord.com/invite/wwSw3J7F2j)
@@ -48,7 +50,6 @@ Teams will be able to join a new channel (with their project name on it) on our 
 
 Useful Links|
 -----|
-[Solana Season](https://solana.com/solanaszn)
 [Website](https://media.network)
 [Developer Documentation](https://docs.media.network)
 [Community Forum](https://gov.media.network)
